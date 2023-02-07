@@ -15,4 +15,15 @@ Infrence Steps: `30`
 
 Guidance Scale: `15`
 
-
+## Metadata
+```json
+{
+  "name": "SOUL", 
+  "symbol": "SOUL",
+  "uri": "https://raw.githubusercontent.com/YoDust/SOUL/main/logo-a.png",
+  "sellerFeeBasisPoints": 0,
+  "creators": null,
+  "collection": null,
+  "uses": null
+}
+```
