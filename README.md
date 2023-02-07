@@ -20,7 +20,7 @@ Guidance Scale: `15`
 {
   "name": "SOUL", 
   "symbol": "SOUL",
-  "uri": "https://raw.githubusercontent.com/YoDust/SOUL/main/logo-a.png",
+  "uri": "https://raw.githubusercontent.com/YoDust/SOUL/main/token.json",
   "sellerFeeBasisPoints": 0,
   "creators": null,
   "collection": null,
